@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1620749227475.xml" value="0.9458483754512635" />
+        <entry key="../../../../layout/compose-model-1620842994080.xml" value="0.9350180505415162" />
+        <entry key="../../../../layout/compose-model-1620843212177.xml" value="0.927797833935018" />
+        <entry key="../../../../layout/compose-model-1620844098386.xml" value="0.9169675090252708" />
+        <entry key="../../../../layout/compose-model-1620844700013.xml" value="0.16" />
+        <entry key="../../../../layout/compose-model-1620917451310.xml" value="0.2" />
+        <entry key="../../../../layout/compose-model-1621853467034.xml" value="0.19074074074074074" />
+        <entry key="../../../../layout/compose-model-1621858180038.xml" value="0.18" />
+        <entry key="../../../../layout/compose-model-1621957501605.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/ic_baseline_fiber_new_24.xml" value="0.1671875" />
+        <entry key="app/src/main/res/drawable/ic_new.xml" value="0.1671875" />
+        <entry key="app/src/main/res/drawable/ic_news.xml" value="0.1671875" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.1671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
